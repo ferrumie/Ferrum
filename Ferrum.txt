@@ -1,0 +1,5 @@
+Name: Alabi Feranmi
+E-mail : alabiemmanuelferanmi@gmail.com
+Slack username: Ferrum
+Tracks: frontend development, Backend development
+Courses: python,javascript, css, html, node.js
